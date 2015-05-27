@@ -1,0 +1,14 @@
+It is amazing that a compiler is written in the language it compiles..This means the compiler
+must compile itself?
+
+I am looking at cpython
+
+2. The Grammar file is the parsing aspect of the compiler, as well as the Parser folder.
+   I assume the ast.c (in the Python folder) file corresponds to the ast aspect of the compiler.
+   Also, the compile.c file corresponds to the AST of the compiler.
+   I thought Peephole was a funny file name in the Python folder but the comment says it optimizes      for bytecode compiler, so I'm guessing that is the optimization part of the compiler.
+   
+   
+	
+
+c:/users/nordbergr/desktop/random.txt
