@@ -8,7 +8,4 @@ I am looking at cpython
    Also, the compile.c file corresponds to the AST of the compiler.
    I thought Peephole was a funny file name in the Python folder but the comment says it optimizes      for bytecode compiler, so I'm guessing that is the optimization part of the compiler.
    
-   
-	
 
-c:/users/nordbergr/desktop/random.txt
